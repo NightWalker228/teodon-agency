@@ -1,0 +1,32 @@
+.mdi-action-translate {
+    background: transparent;
+    border: none;
+    margin-left: 5px;
+}
+button{
+background: transparent;
+    border: none;
+    margin-left: 5px;
+}
+
+p{
+    font-size: large;
+}
+p1{
+    font-size: large;
+}
+p2{
+    font-size: large;
+}
+footer{
+    color: gray;
+    height: 130px;
+}
+p3,p4,p5{
+    margin-left: 30px;
+}
+.mbr-figure{
+    border-radius: 17px;
+}
+
+
